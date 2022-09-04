@@ -1,7 +1,7 @@
 [![MasterHead](https://https://cdn.hackernoon.com/images/f2px36fy.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm RAKESH SETHU NP</h1>
 <h3 align="center">A PASSIONATE DATA SCIENTIST AND SMALL TIME YOUTUBER FROM INDIA</h3>
-<img align="right" alt="Coding" width="400" src="https://https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyeagle320&label=Profile%20views&color=0e75b6&style=flat" alt="flyeagle320" /> </p>
 
