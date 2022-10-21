@@ -5,11 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyeagle320&label=Profile%20views&color=0e75b6&style=flat" alt="flyeagle320" /> </p>
 
-- 🔭 I’m currently working on **Assignment for Data Science**
+- 🔭 I’m currently working on **Practice project**
 
-- 🌱 I’m currently learning **ML,DL ,ANN**
+- 🌱 I’m currently learning **EXCEL , POWER BI , SQL**
 
-- 👯 I’m looking to collaborate on **Exciting Project**
+- 👯 I’m looking to collaborate on **Exciting real world Project**
+
+- 📝 I regularly write articles on [https://medium.com/@rake-mom2](https://medium.com/@rake-mom2)
 
 - 💬 Ask me about **Flight Simulator , Aircraft**
 
