@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Practice project**
 
-- 🌱 I’m currently learning **EXCEL , POWER BI , SQL**
+- 🌱 I’m currently learning **EXCEL , POWER BI , SQL, Tableau**
 
 - 👯 I’m looking to collaborate on **Exciting real world Project**
 
